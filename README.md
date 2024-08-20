@@ -1,3 +1,4 @@
+![logo](<img alt="banner" src="github Readme/image/>)
 <h1 align="center">Hi 👋, I'm Pranjal Tripathi</h1>
 <h3 align="center">Full Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="github Readme/image/coding.gif" />
