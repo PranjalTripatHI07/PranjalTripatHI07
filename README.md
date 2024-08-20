@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/PranjalTripatHI07/PranjalTripatHI07/blob/main/github%20Readme/image/head.png)
 <h1 align="center">Hi 👋, I'm Pranjal Tripathi</h1>
 <h3 align="center">Full Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="github Readme/image/coding.gif" />
